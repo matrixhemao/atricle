@@ -60,5 +60,5 @@ Go语言圣经
 54. [以太坊随机数生成方式](https://blog.csdn.net/itcastcpp/article/details/80305787)
 55. []()
 ## 随机数
-[随机数常见算法优劣剖析](http://gad.qq.com/article/detail/10069)
-[Algorand Scaling Byzantine Agreements for Cryptocurrencies](https://blog.csdn.net/sanganqi_wusuierzi/article/details/78872360)
+1. [随机数常见算法优劣剖析](http://gad.qq.com/article/detail/10069)    
+2. [Algorand Scaling Byzantine Agreements for Cryptocurrencies](https://blog.csdn.net/sanganqi_wusuierzi/article/details/78872360)
