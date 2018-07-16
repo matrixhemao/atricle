@@ -61,4 +61,4 @@ Go语言圣经
 55. []()
 ## 随机数
 [随机数常见算法优劣剖析](http://gad.qq.com/article/detail/10069)
-[Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://blog.csdn.net/sanganqi_wusuierzi/article/details/78872360)
+[Algorand Scaling Byzantine Agreements for Cryptocurrencies](https://blog.csdn.net/sanganqi_wusuierzi/article/details/78872360)
