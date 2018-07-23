@@ -62,3 +62,6 @@ Go语言圣经
 ## 随机数
 1. [随机数常见算法优劣剖析](http://gad.qq.com/article/detail/10069)    
 2. [Algorand Scaling Byzantine Agreements for Cryptocurrencies](https://blog.csdn.net/sanganqi_wusuierzi/article/details/78872360)
+## 微服务
+### GO微服务
+1. [Go语言微服务系列文章](https://segmentfault.com/a/1190000014894854)
