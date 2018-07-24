@@ -65,3 +65,5 @@ Go语言圣经
 ## 微服务
 ### GO微服务
 1. [Go语言微服务系列文章](https://segmentfault.com/a/1190000014894854)
+## 以太坊Trie相关
+1. [以太坊MPT树代码分析](https://www.jianshu.com/p/1e7455d00065)
