@@ -71,3 +71,6 @@ Go语言圣经
 1. [以太坊MPT树代码分析](https://www.jianshu.com/p/1e7455d00065)
 ## 以太坊其他资料
 1. [go-ethereum以太坊源码解析完整版](https://blog.csdn.net/luckydog612/article/details/80534758)
+## BlockChain
+### 共识
+1. [知乎共识算法系列之一：raft和pbft算法](https://zhuanlan.zhihu.com/p/35847127)
