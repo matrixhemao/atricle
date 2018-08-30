@@ -4,6 +4,7 @@ Go语言圣经
 1. [ZeroMQ总结](https://blog.csdn.net/weiyuefei/article/details/78579930)
 2. [浅谈 Golang sync 包的相关使用方法](https://studygolang.com/articles/11038?fr=sidebar)
 3. [Go资源](https://github.com/Golangltd/go-study-index)
+4. [并行开发与GO并发编程](https://blog.csdn.net/xieyun1977/article/details/73495885)
 ## 电子图书资源    
 [justjavac的收藏](https://github.com/justjavac/free-programming-books-zh_CN)
 ## 尹成以太坊源码解析
